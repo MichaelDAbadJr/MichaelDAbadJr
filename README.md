@@ -1,11 +1,10 @@
 ![Design and Development](https://github.com/MichaelDAbadJr/MichaelDAbadJr/blob/main/github-header-image.png?raw=true)
 
-### Hi there 👋, I'm Michael Abad
-#### Design and Development
+# Michael Abad
 
 I'm Michael from Texas, and I develop software. I really enjoy learning languages like Java, Python and C++ as well as frameworks such as React and Django. I enjoy coding and would like to learn more about backend development.
 
-## Skills and Experience 
+# Skills and Experience 
 * :coffee: Java
 * :snake: Python
 * :copyright: C++
