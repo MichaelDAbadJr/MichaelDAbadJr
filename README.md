@@ -9,9 +9,9 @@ I'm Michael from Texas, and I develop software. I really enjoy learning language
 * :coffee: Java
 * :snake: Python
 * :copyright: C++
-* :angchor: Django,  React
+* :anchor: Django,  React
 * :bar_chart: Data Science, Machine Learing
-* "panda_face: Linux
+* :panda_face: Linux
 
 - 🔭 I’m currently working on Getting my first Developer Job 
 
