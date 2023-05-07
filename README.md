@@ -14,6 +14,9 @@ I'm Michael from Texas, and I develop software. I really enjoy learning language
 
 - 🔭 I’m currently working on Getting my first Developer Job 
 
+## Examples of Work
+<img src="" width="250">
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelDAbadJr)  
 
 
