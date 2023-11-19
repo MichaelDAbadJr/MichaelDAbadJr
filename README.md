@@ -5,9 +5,9 @@
 I'm Michael from Texas, and I develop software. I really enjoy learning languages like Java, Python and C++ as well as frameworks such as React and Django. I enjoy coding and would like to learn more about application development and backend development.
 
 # Skills and Experience 
-* :coffee: Java
-* :snake: Python
-* :copyright: C++
+* :coffee: HTML, CSS, JavaScript
+* :snake: NodeJS, Express
+* :copyright: C++, Python, Java
 * :anchor: Django,  React
 * :bar_chart: Data Science, Machine Learing
 * :panda_face: Linux
