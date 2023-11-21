@@ -6,7 +6,7 @@ I'm Michael from Texas, and I develop software. I really enjoy learning language
 
 # Skills and Experience 
 * :coffee: HTML, CSS, JavaScript
-* :snake: NodeJS, Express
+* :snake: NodeJS, Express MongoDB, PostGres SQL
 * :copyright: C++, Python, Java
 * :anchor: Django,  React
 * :bar_chart: Data Science, Machine Learing
