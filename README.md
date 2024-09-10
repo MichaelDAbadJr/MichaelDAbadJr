@@ -1,8 +1,8 @@
 ![Design and Development](https://github.com/MichaelDAbadJr/MichaelDAbadJr/blob/main/github-header-image.png?raw=true)
 
-# Michael Abad
+# Jun Michael Abad
 
-I'm Michael from Texas, and I am a Full Stack Software Engineer. I really enjoy learning languages like Java, Python and C++ as well as frameworks such as React and Django. I enjoy coding and would like to learn more about application development and backend development.
+I'm Jun Michael from Texas, and I am a Full Stack Software Engineer. I really enjoy learning languages like Java, Python and C++ as well as frameworks such as React and Django. I enjoy coding and would like to learn more about application development and backend development.
 
 # Skills and Experience 
 * :coffee: HTML, CSS, JavaScript
