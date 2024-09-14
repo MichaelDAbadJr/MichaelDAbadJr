@@ -11,7 +11,7 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
     <td align="center">
       <strong>Portfolio Page</strong>
       <br>
-      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="300">
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/Portfolio-Cover.jpg" width="300">
       <br>
       <a href="https://junmike.netlify.app/" target="_blank">Live Demo on Netlify</a>
     </td>
