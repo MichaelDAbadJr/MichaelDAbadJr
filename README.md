@@ -5,24 +5,24 @@
 Hello! I'm a passionate Full Stack Software Engineer with a knack for building robust and scalable web applications. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to software development. Here’s a glimpse into my skill set and experience:
 
 ## Examples of Work
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
-  <div style="text-align: center;">
+  <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
     <br>
-    [Live Demo](https://junmike-food-order.netlify.app/)
+    <a href="https://junmike-food-order.netlify.app/" target="_blank">Live Demo on Netlify</a>
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width="250">
     <br>
-    [Live Demo](https://junmike-picture-place.netlify.app/)
+    <a href="https://junmike-picture-place.netlify.app/" target="_blank">Live Demo on Netlify</a>
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg" width="250">
     <br>
-    [Live Demo](https://junmike-tictactoe.netlify.app/)
+    <a href="https://junmike-tictactoe.netlify.app/" target="_blank">Live Demo on Netlify</a>
   </div>
 
 </div>
