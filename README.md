@@ -18,20 +18,26 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <a href="https://github.com/MichaelDAbadJr/Portfolio" target="_blank">Github Repository</a>
     </td>
     <td align="center">
+      <strong>Picture Place App</strong>
+      <br>
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width="300">
+      <br>
+      <a href="https://junmike-picture-place.netlify.app/" target="_blank">Live Demo on Netlify</a>
+      <br>
+      <a href="https://github.com/MichaelDAbadJr/PicturePlaceApp/" target="_blank">Frontend Github Repository</a>
+      <br>
+      <a href="https://github.com/MichaelDAbadJr/PicturePlaceApp/" target="_blank">Backend Github Repository</a>
+    </td>
+    <td align="center">
       <strong>Food Order App</strong>
       <br>
       <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="300">
       <br>
       <a href="https://junmike-food-order.netlify.app/" target="_blank">Live Demo on Netlify</a>
       <br>
-      <a href="https://junmike-food-order.netlify.app/" target="_blank">Live Demo on Netlify</a>
-    </td>
-    <td align="center">
-      <strong>Picture Place App</strong>
+      <a href="https://github.comMichaelDAbadJr/FoodOrderApp-Frontend" target="_blank">Frontend Github Repository</a>
       <br>
-      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width="300">
-      <br>
-      <a href="https://junmike-picture-place.netlify.app/" target="_blank">Live Demo on Netlify</a>
+      <a href="https://github.comMichaelDAbadJr/FoodOrderApp-Frontend" target="_blank">Backend Github Repository</a>
     </td>
   </tr>
   
@@ -43,6 +49,8 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg" width="300">
       <br>
       <a href="https://junmike-tictactoe.netlify.app/" target="_blank">Live Demo on Netlify</a>
+      <br>
+      <a href="https://github.comMichaelDAbadJr/TicTacToe" target="_blank">Github Repository</a>
     </td>
   </tr>
 </table>
