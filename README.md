@@ -4,6 +4,8 @@
 
 Hello! I'm a passionate Full Stack Software Engineer with a knack for building robust and scalable web applications. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to software development. Here’s a glimpse into my skill set and experience:
 
+## Examples of Work
+<img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
 ## Skills & Technologies
 
 ### Front-End Development
@@ -34,8 +36,6 @@ Experienced in integrating JWT tokens for secure authentication and authorizatio
 Proficient in managing environment variables, configuring build tools like Vite, and implementing best practices for code quality and project organization.
 
 
-## Examples of Work
-<img src="" width="250">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelDAbadJr)  
 
