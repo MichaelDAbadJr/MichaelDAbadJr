@@ -11,21 +11,21 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
     <td align="center">
       <strong>Portfolio Page</strong>
       <br>
-      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="300">
       <br>
       <a href="https://junmike.netlify.app/" target="_blank">Live Demo on Netlify</a>
     </td>
     <td align="center">
       <strong>Food Order App</strong>
       <br>
-      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="300">
       <br>
       <a href="https://junmike-food-order.netlify.app/" target="_blank">Live Demo on Netlify</a>
     </td>
     <td align="center">
       <strong>Picture Place App</strong>
       <br>
-      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width="250">
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width="300">
       <br>
       <a href="https://junmike-picture-place.netlify.app/" target="_blank">Live Demo on Netlify</a>
     </td>
@@ -36,7 +36,7 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
     <td align="center">
       <strong>Tic Tac Toe Game</strong>
       <br>
-      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg" width="250">
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg" width="300">
       <br>
       <a href="https://junmike-tictactoe.netlify.app/" target="_blank">Live Demo on Netlify</a>
     </td>
