@@ -7,20 +7,20 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
 ## Examples of Work
 <div style="display: flex; justify-content: space-around;">
     <div style="text-align: center;">
-<img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
-      <br>
-    [Live Demo on Netlify](https://your-netlify-link-for-food-order-app)
-  </div>
+        <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
+        <br>
+    [Live Demo on Netlify]([https://your-netlify-link-for-food-order-app](https://junmike-food-order.netlify.app/))
+      </div>
       <div style="text-align: center;">
 <img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width=250">
               <br>
-    [Live Demo on Netlify](https://your-netlify-link-for-food-order-app)
+    [Live Demo on Netlify]([https://your-netlify-link-for-food-order-app](https://junmike-picture-place.netlify.app/))
   </div>
       <div style="text-align: center;">
 
 <img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg" width="250">
               <br>
-    [Live Demo on Netlify](https://your-netlify-link-for-food-order-app)
+    [Live Demo on Netlify]([https://your-netlify-link-for-food-order-app](https://junmike-tictactoe.netlify.app/))
   </div>
 </div>
 
