@@ -2,7 +2,7 @@
 
 # About Me
 
-Hello! I'm a passionate Full Stack Software Engineer with a knack for building robust and scalable web applications. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to software development. Here’s a glimpse into my skill set and experience:
+I'm a passionate Full Stack Software Engineer with a strong track record of building robust and scalable web applications. My expertise spans both front-end and back-end technologies, and I take a comprehensive approach to software development. Here’s a glimpse into my skill set and experience:
 
 ## Examples of Work
 <table>
@@ -46,19 +46,22 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
 ## Skills & Technologies [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='80'>](https://github.com/MichaelDAbadJr)  
 
 ### Front-End Development
-Proficient in React.js and Vite, I specialize in creating dynamic and responsive user interfaces. I manage state using a variety of tools, including:
+Proficient in React.js, Javascript, and HTML & CSS, I specialize in creating dynamic and responsive user interfaces. I manage state using a variety of tools, including:
 - **`useState` and `useReducer` Hooks**: For managing local component state and handling more complex state logic.
 - **Custom Hooks**: To encapsulate and reuse stateful logic across components.
 - **Redux Toolkit**: For global state management in larger applications, providing a scalable and maintainable approach to state management.
 
 ### Back-End Development
-Skilled in Node.js and Express, I have a proven track record of developing RESTful APIs and integrating them with cloud services. My expertise includes setting up and managing Google Cloud Storage, handling image uploads, and deploying scalable applications on platforms like Google App Engine and Heroku.
+Skilled in Node.js and Express, I have extensive experience in: 
+- **Developing RESTful APIs**: Creating and managing endpoints, routes, and handling HTTP methods (GET, POST, PUT, DELETE).
+- **MVC Architecture**: Implementing the Model-View-Controller pattern to structure applications and separate concerns.
+- **Google Cloud Integration**: Managing Google Cloud Storage, handling image uploads, and deploying applications on Google App Engine.
 
 ### Database Management
 Experienced with both MongoDB and PostgreSQL, I excel in designing efficient database schemas, managing data relationships, and ensuring data integrity. My experience includes working with the MERN stack and leveraging PostgreSQL for robust relational data management.
 
 ### Deployment & CI/CD
-I deploy my front-end applications on Netlify, leveraging its capabilities for automatic builds and deployments. My CI/CD pipeline is integrated with GitHub, ensuring that any updates pushed to my repositories trigger automated deployment processes, keeping my projects up-to-date and continuously integrated.
+I deploy my front-end applications on Netlify, and my back-end applications on Heroku or Google App Engine if Google Cloud integrations are required; leveraging their capabilities for automatic builds and deployments. My CI/CD pipeline is integrated with GitHub, ensuring that any updates pushed to my repositories trigger automated deployment processes, keeping my projects up-to-date and continuously integrated.
 
 ### Containerization
 Familiar with Docker, I use it to create and manage containerized environments, making development, testing, and deployment more efficient and consistent.
@@ -67,9 +70,11 @@ Familiar with Docker, I use it to create and manage containerized environments, 
 Skilled at integrating front-end and back-end systems, ensuring smooth communication between them. I use tools like Postman to test and validate API endpoints, and I handle HTTP headers and CORS to manage cross-origin requests and ensure secure interactions.
 
 ### Authentication & Security
-Experienced in integrating JWT tokens for secure authentication and authorization. I have implemented secure authentication mechanisms on both the front end and back end, ensuring data protection and user privacy.
+Experienced in integrating JWT tokens for secure authentication and authorization. Password Tokenization utilizing industry-standard hashing algorithms (such as bcrypt) to securely hash and store passwords in databases, protecting sensitive user information from unauthorized access. I have implemented secure authentication mechanisms on both the front end and back end, ensuring data protection and user privacy.
 
 ### DevOps & Best Practices
 Proficient in managing environment variables, configuring build tools like Vite, and implementing best practices for code quality and project organization.
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldabadjr)](https://github.com/anuraghazra/github-readme-stats)
