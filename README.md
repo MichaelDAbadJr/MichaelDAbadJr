@@ -72,8 +72,4 @@ Experienced in integrating JWT tokens for secure authentication and authorizatio
 ### DevOps & Best Practices
 Proficient in managing environment variables, configuring build tools like Vite, and implementing best practices for code quality and project organization.
 
-
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldabadjr)](https://github.com/anuraghazra/github-readme-stats)
