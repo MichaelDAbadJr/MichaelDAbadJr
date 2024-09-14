@@ -6,6 +6,7 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
 
 ## Examples of Work
 <table>
+  <!-- First row with 3 columns -->
   <tr>
     <td align="center">
       <strong>Portfolio Page</strong>
@@ -28,6 +29,10 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
       <br>
       <a href="https://junmike-picture-place.netlify.app/" target="_blank">Live Demo on Netlify</a>
     </td>
+  </tr>
+  
+  <!-- Second row with 1 column (carryover) -->
+  <tr>
     <td align="center">
       <strong>Tic Tac Toe Game</strong>
       <br>
