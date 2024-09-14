@@ -6,6 +6,8 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
 
 ## Examples of Work
 <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
+<img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg">
+<img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg">
 ## Skills & Technologies
 
 ### Front-End Development
