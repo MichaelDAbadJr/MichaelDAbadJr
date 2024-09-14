@@ -5,9 +5,7 @@
 Hello! I'm a passionate Full Stack Software Engineer with a knack for building robust and scalable web applications. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to software development. Here’s a glimpse into my skill set and experience:
 
 ## Examples of Work
-<img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250">
-<img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width=250">
-<img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg" width="250">
+<img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="250"><img src="https://github.com/MichaelDAbadJr/assets/blob/main/PicturePlace-Cover.jpg" width=250"><img src="https://github.com/MichaelDAbadJr/assets/blob/main/TicTacToe-Cover.jpg" width="250">
 ## Skills & Technologies
 
 ### Front-End Development
