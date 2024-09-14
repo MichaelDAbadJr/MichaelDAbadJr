@@ -8,8 +8,11 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
 * Front-End Development: Proficient in React.js and Vite, I specialize in creating dynamic and responsive user interfaces. I manage state using a variety of tools, including:
 
   * useState and useReducer Hooks: For managing local component state and handling more complex state logic.:
+    
   *Custom Hooks: To encapsulate and reuse stateful logic across components.:
+  
   *Redux Toolkit: For global state management in larger applications, providing a scalable and maintainable approach to state management.:
+  
 * :snake: NodeJS, Express MongoDB, PostGres SQL
 * :copyright: C++, Python, Java
 * :anchor: Django,  React, NextJS
