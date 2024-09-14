@@ -39,6 +39,7 @@ Hello! I'm a passionate Full Stack Software Engineer with a knack for building r
 </table>
 
 ## Skills & Technologies
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelDAbadJr)  
 
 ### Front-End Development
 Proficient in React.js and Vite, I specialize in creating dynamic and responsive user interfaces. I manage state using a variety of tools, including:
@@ -69,7 +70,6 @@ Proficient in managing environment variables, configuring build tools like Vite,
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelDAbadJr)  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldabadjr)](https://github.com/anuraghazra/github-readme-stats)
