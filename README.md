@@ -14,11 +14,15 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <img src="https://github.com/MichaelDAbadJr/assets/blob/main/Portfolio-Cover.jpg" width="300">
       <br>
       <a href="https://junmike.netlify.app/" target="_blank">Live Demo on Netlify</a>
+      <br>
+      <a href="https://github.com/MichaelDAbadJr/Portfolio" target="_blank">Github Repository</a>
     </td>
     <td align="center">
       <strong>Food Order App</strong>
       <br>
       <img src="https://github.com/MichaelDAbadJr/assets/blob/main/FoodOrder-Cover.jpg" width="300">
+      <br>
+      <a href="https://junmike-food-order.netlify.app/" target="_blank">Live Demo on Netlify</a>
       <br>
       <a href="https://junmike-food-order.netlify.app/" target="_blank">Live Demo on Netlify</a>
     </td>
