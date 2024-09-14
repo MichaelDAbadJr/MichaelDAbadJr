@@ -5,7 +5,7 @@
 Hello! I'm a passionate Full Stack Software Engineer with a knack for building robust and scalable web applications. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to software development. Here’s a glimpse into my skill set and experience:
 
 # Skills and Technologies 
-* __Front-End Development__: Proficient in React.js and Vite, I specialize in creating dynamic and responsive user interfaces. I manage state using a variety of tools, including:
+* Front-End Development: Proficient in React.js and Vite, I specialize in creating dynamic and responsive user interfaces. I manage state using a variety of tools, including:
 
   * useState and useReducer Hooks: For managing local component state and handling more complex state logic.:
   *Custom Hooks: To encapsulate and reuse stateful logic across components.
