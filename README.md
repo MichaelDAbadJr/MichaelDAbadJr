@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/MichaelDAbadJr/MichaelDAbadJr/blob/main/github-header-image.png?raw=true)
+![Design and Development]([https://github.com/MichaelDAbadJr/MichaelDAbadJr/blob/main/github-header-image.png](https://github.com/MichaelDAbadJr/assets/blob/main/IMG_2877.jpeg)?raw=true)
 
 # About Me
 
