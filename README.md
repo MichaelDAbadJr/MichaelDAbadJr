@@ -1,5 +1,4 @@
-![Design and Development]([https://github.com/MichaelDAbadJr/MichaelDAbadJr/blob/main/github-header-image.png](https://github.com/MichaelDAbadJr/assets/blob/main/IMG_2877.jpeg)?raw=true)
-
+![Design and Development](https://raw.githubusercontent.com/MichaelDAbadJr/assets/main/IMG_2877.jpeg)
 # About Me
 
 I'm a passionate Full Stack Software Engineer with a strong track record of building robust and scalable web applications. My expertise spans both front-end and back-end technologies, and I take a comprehensive approach to software development. Here’s a glimpse into my skill set and experience:
