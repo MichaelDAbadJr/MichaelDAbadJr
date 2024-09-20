@@ -12,7 +12,7 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <br>
       <img src="https://github.com/MichaelDAbadJr/assets/blob/main/Portfolio-Cover.jpg" width="300">
       <br>
-      <a href="https://junmike.netlify.app/" target="_blank">Live Demo on Netlify</a>
+      <a href="https://junmike.dev/" target="_blank">Live Demo on Netlify</a>
       <br>
       <a href="https://github.com/MichaelDAbadJr/Portfolio" target="_blank">Github Repository</a>
     </td>
@@ -23,9 +23,9 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <br>
       <a href="https://junmike-picture-place.netlify.app/" target="_blank">Live Demo on Netlify</a>
       <br>
-      <a href="https://github.com/MichaelDAbadJr/PicturePlaceApp/" target="_blank">Frontend Github Repository</a>
+      <a href="https://github.com/MichaelDAbadJr/PicturePlaceApp-Frontend/" target="_blank">Frontend Github Repository</a>
       <br>
-      <a href="https://github.com/MichaelDAbadJr/PicturePlaceApp/" target="_blank">Backend Github Repository</a>
+      <a href="https://github.com/MichaelDAbadJr/PicturePlaceApp-Backend/" target="_blank">Backend Github Repository</a>
     </td>
     <td align="center">
       <strong>Food Order App</strong>
@@ -36,7 +36,7 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <br>
       <a href="https://github.comMichaelDAbadJr/FoodOrderApp-Frontend" target="_blank">Frontend Github Repository</a>
       <br>
-      <a href="https://github.comMichaelDAbadJr/FoodOrderApp-Frontend" target="_blank">Backend Github Repository</a>
+      <a href="https://github.comMichaelDAbadJr/FoodOrderApp-Backend" target="_blank">Backend Github Repository</a>
     </td>
   </tr>
   
