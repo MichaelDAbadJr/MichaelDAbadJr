@@ -34,9 +34,9 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <br>
       <a href="https://junmike-food-order.netlify.app/" target="_blank">Live Demo on Netlify</a>
       <br>
-      <a href="https://github.comMichaelDAbadJr/FoodOrderApp-Frontend" target="_blank">Frontend Github Repository</a>
+      <a href="https://github.com/MichaelDAbadJr/FoodOrderApp-Frontend" target="_blank">Frontend Github Repository</a>
       <br>
-      <a href="https://github.comMichaelDAbadJr/FoodOrderApp-Backend" target="_blank">Backend Github Repository</a>
+      <a href="https://github.com/MichaelDAbadJr/FoodOrderApp-Backend" target="_blank">Backend Github Repository</a>
     </td>
   </tr>
   
