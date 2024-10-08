@@ -52,7 +52,6 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <a href="https://github.comMichaelDAbadJr/TicTacToe" target="_blank">Github Repository</a>
     </td>
     <td align="center">
-    <td align="center">
       <strong>Investment Calculator</strong>
       <br>
       <img src="https://github.com/MichaelDAbadJr/assets/blob/main/Investment-Calc.jpg" width="300">
