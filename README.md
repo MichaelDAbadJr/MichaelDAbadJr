@@ -38,6 +38,15 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <br>
       <a href="https://github.com/MichaelDAbadJr/FoodOrderApp-Backend" target="_blank">Backend Github Repository</a>
     </td>
+    <td align="center">
+      <strong>Investment Calculator App</strong>
+      <br>
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/Investment-Calc.jpg" width="300">
+      <br>
+      <a href="https://junmike-investment-calc.netlify.app/" target="_blank">Live Demo on Netlify</a>
+      <br>
+      <a href="https://github.com/MichaelDAbadJr/InvestmentCalculator" target="_blank">Github Repository</a>
+    </td>
   </tr>
   
   <!-- Second row with 1 column (carryover) -->
