@@ -38,15 +38,6 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <br>
       <a href="https://github.com/MichaelDAbadJr/FoodOrderApp-Backend" target="_blank">Backend Github Repository</a>
     </td>
-    <td align="center">
-      <strong>Investment Calculator App</strong>
-      <br>
-      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/Investment-Calc.jpg" width="300">
-      <br>
-      <a href="https://junmike-investment-calc.netlify.app/" target="_blank">Live Demo on Netlify</a>
-      <br>
-      <a href="https://github.com/MichaelDAbadJr/InvestmentCalculator" target="_blank">Github Repository</a>
-    </td>
   </tr>
   
   <!-- Second row with 1 column (carryover) -->
@@ -59,6 +50,15 @@ I'm a passionate Full Stack Software Engineer with a strong track record of buil
       <a href="https://junmike-tictactoe.netlify.app/" target="_blank">Live Demo on Netlify</a>
       <br>
       <a href="https://github.comMichaelDAbadJr/TicTacToe" target="_blank">Github Repository</a>
+    </td>
+        <td align="center">
+      <strong>Quizz App</strong>
+      <br>
+      <img src="https://github.com/MichaelDAbadJr/assets/blob/main/Quiz-Cover.jpg" width="300">
+      <br>
+      <a href="https://junmike-quiz.netlify.app/" target="_blank">Live Demo on Netlify</a>
+      <br>
+      <a href="https://github.com/MichaelDAbadJr/QuizApp" target="_blank">Github Repository</a>
     </td>
   </tr>
 </table>
